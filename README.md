@@ -3,4 +3,4 @@
 login with animation
 
 ## Preview
-![](screenshots/animated.mp4)
+![](screenshots/ezgif.com-gif-maker.gif)
